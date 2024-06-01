@@ -14,7 +14,7 @@ To run the script, you need to have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/belly-button-challenge.git
+   git clone https://github.com/Commando1016/belly-button-challenge.git
    ```
 
 2. Open the `index.html` file in your web browser.
